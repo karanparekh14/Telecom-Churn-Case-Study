@@ -18,6 +18,6 @@ Telecom_Churn_Group_Case_Study.ipynb : The python file showing coding and data a
 Data+Dictionary-+Telecom+Churn+Case+Study.xlsx : Data Dictionary
 
 ## Case Study Partners
-  Kishor Mahajan
-  Manish Kumar
-  Karan Parekh
+### Kishor Mahajan
+### Manish Kumar
+### Karan Parekh
